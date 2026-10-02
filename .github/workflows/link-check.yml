@@ -23,7 +23,6 @@ jobs:
             --no-progress
             --max-retries 3
             --retry-wait-time 5
-            --exclude-mail
             --accept 200,206,429
             index.html README.md
           fail: true
