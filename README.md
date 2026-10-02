@@ -26,10 +26,15 @@ The SQL, Python, Tableau and Power BI projects follow courses by Alex The Analys
 ├── index.html        # The portfolio page
 ├── assets/           # Template CSS, Sass sources, JavaScript and web fonts
 ├── images/           # Background and project thumbnails
+├── .github/workflows/  # Weekly link check (lychee)
 ├── LICENSE.txt       # CC BY 3.0 license of the HTML5 UP template
 ├── README.txt        # Original HTML5 UP template readme and credits
 └── README.md
 ```
+
+## Quality checks
+
+A GitHub Actions workflow ([`.github/workflows/link-check.yml`](.github/workflows/link-check.yml)) uses [lychee](https://github.com/lycheeverse/lychee) to check every link in `index.html` and this README. It runs every Monday, on every pull request, and on demand, and fails if a link is broken.
 
 ## Run locally
 
