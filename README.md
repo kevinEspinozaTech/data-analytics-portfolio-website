@@ -2,14 +2,14 @@
 
 A static portfolio site, published with GitHub Pages, that links my data analytics projects and my current automation work.
 
-**Live site:** https://kevinespinozatech.github.io/data-analytics-portfolio-website/
+**Live site:** https://kevinespinozatech.github.io/
 
 ## Contents
 
 | Section | Projects |
 |---|---|
-| Guided learning projects | [COVID-19 data exploration (SQL)](https://github.com/kevinEspinozaTech/covid-data-exploration-sql) · [COVID-19 Tableau dashboard](https://github.com/kevinEspinozaTech/covid-tableau-analysis-sql) · [Nashville housing data cleaning (SQL)](https://github.com/kevinEspinozaTech/nashville-housing-data-cleaning-sql) · [Movie correlation analysis (Python)](https://github.com/kevinEspinozaTech/movie-correlation-analysis-python) · [Data professional survey (Power BI)](https://github.com/kevinEspinozaTech/data-professional-survey-power-bi) |
-| Work in progress | [clipping-portfolio-automation](https://github.com/kevinEspinozaTech/clipping-portfolio-automation) · [faceless-automation-portfolio](https://github.com/kevinEspinozaTech/faceless-automation-portfolio) · [n8n-automation-portfolio](https://github.com/kevinEspinozaTech/n8n-automation-portfolio) · [python-data-analysis](https://github.com/kevinEspinozaTech/python-data-analysis) |
+| Guided learning projects | [COVID-19 data exploration (SQL)](https://github.com/kevinEspinozaTech/covid19-global-exploratory-analysis-sql) · [COVID-19 Tableau dashboard](https://github.com/kevinEspinozaTech/covid19-global-dashboard-tableau) · [Nashville housing data cleaning (SQL)](https://github.com/kevinEspinozaTech/real-estate-data-cleaning-sql-server) · [Movie correlation analysis (Python)](https://github.com/kevinEspinozaTech/movie-box-office-drivers-python) · [Data professional survey (Power BI)](https://github.com/kevinEspinozaTech/data-careers-survey-dashboard-power-bi) |
+| Work in progress | [rights-aware-video-clipping-pipeline](https://github.com/kevinEspinozaTech/rights-aware-video-clipping-pipeline) · [faceless-video-content-pipeline](https://github.com/kevinEspinozaTech/faceless-video-content-pipeline) · [ecommerce-marketing-decision-analytics](https://github.com/kevinEspinozaTech/ecommerce-marketing-decision-analytics) |
 
 The SQL, Python, Tableau and Power BI projects follow courses by Alex The Analyst and are labelled as **guided learning projects** on the site. Each project's README gives the details and credits.
 
@@ -47,7 +47,7 @@ python -m http.server 8000
 
 ## Changes in the 2026 refresh
 
-- Moved the repository from `KevinEspinozaN/PagePortfolio` to `kevinEspinozaTech/data-analytics-portfolio-website`. The old GitHub Pages URL does **not** redirect.
+- Moved the repository from `KevinEspinozaN/PagePortfolio` to `kevinEspinozaTech/kevinespinozatech.github.io`. The old GitHub Pages URL does **not** redirect.
 - Updated all project links to the renamed repositories under `kevinEspinozaTech`.
 - Labelled the course projects as *guided learning projects* and added a *work in progress* section.
 - Added the Power BI project, which was missing from the site.
